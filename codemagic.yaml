@@ -6,7 +6,7 @@ workflows:
     environment:
       vars:
         APPLE_ID_EMAIL: "nvsands@gmail.com"
-        APPLE_ID_PASSWORD: "ucey-ngsy-hnag-mrmd"  # Your app-specific password
+        APPLE_ID_PASSWORD: "xvnwczzqjlrmswpd"  # Your app-specific password
         APPLE_TEAM_ID: "A983KC345J"  # Your Team ID
     scripts:
       - name: Get Flutter version
